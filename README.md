@@ -12,3 +12,10 @@ Reviewed and Approved pull requests will add your module to the WiFi Pineapple's
 Documentation for developing WiFi Pineapple modules can be found on the [developer docs](https://hak5.github.io/mk7-docs) website. It includes an
 [introductory guide](https://hak5.github.io/mk7-docs/docs/modules/modules/).
 
+
+### Disclaimer !!
+
+> This tool is only for testing and academic purposes and can only be used where strict consent has been given. Do not use it for
+> illegal purposes! It is the end user’s responsibility to obey all applicable local, state and federal laws. Developers assume no
+> liability and are not responsible for any misuse or damage caused by this tool and software in general.
+
